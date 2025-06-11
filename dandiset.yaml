@@ -30,8 +30,8 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Zhang, Jiaao (2025) SpinalCord (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001469/draft
+citation: Zhang, Jiaao (2025) SpinalCord (Version 0.250611.0321) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.001469/0.250611.0321
 contributor:
 - affiliation: []
   email: zhangjaz@outlook.com
@@ -43,12 +43,13 @@ contributor:
 dateCreated: '2025-06-04T13:29:28.232666+00:00'
 datePublished: '2025-06-11T03:21:47.350180+00:00'
 description: Spinal cord test data
-id: DANDI:001469/draft
+doi: 10.48324/dandi.001469/0.250611.0321
+id: DANDI:001469/0.250611.0321
 identifier: DANDI:001469
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001469/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001469/0.250611.0321/assets.yaml
 name: SpinalCord
 publishedBy:
   endDate: '2025-06-11T03:21:47.350180+00:00'
@@ -65,5 +66,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001469/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001469/0.250611.0321
+version: 0.250611.0321
