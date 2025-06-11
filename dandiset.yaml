@@ -19,9 +19,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 95459666368
-  numberOfFiles: 45
-  numberOfSubjects: 4
+  numberOfBytes: 142435183933
+  numberOfFiles: 60
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -41,6 +41,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-06-04T13:29:28.232666+00:00'
+datePublished: '2025-06-11T02:50:52.714245+00:00'
 description: Spinal cord test data
 id: DANDI:001469/draft
 identifier: DANDI:001469
@@ -49,6 +50,18 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001469/versions/draft/assets/
 name: SpinalCord
+publishedBy:
+  endDate: '2025-06-11T02:50:52.714245+00:00'
+  id: urn:uuid:a6bcb7a9-3a67-47ef-887d-58e932e83e82
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-06-11T02:50:52.714245+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6d221f66-eaa7-4b26-bb19-fc960a8acc53
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
